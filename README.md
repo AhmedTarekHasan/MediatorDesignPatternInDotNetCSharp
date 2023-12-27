@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/mediator-design-pattern-in-net-c-e1bfcc96789d?sk=506e4bb1c5b29197ac7d49f3dc9491ab" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/mediator-design-pattern-in-net-c" />
 
 # Mediator Design Pattern In .NET C#
 ### Learn about the Mediator Design Pattern in .NET C# with code samples.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*5U8PPMscW0klqY1ChEqgNA.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_0c4ead8ea5704a81a9a48e2e8e0d48ff~mv2.png">
 </p>
 
 <br/>
@@ -85,4 +85,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/mediator-design-pattern-in-net-c-e1bfcc96789d?sk=506e4bb1c5b29197ac7d49f3dc9491ab
+[Article]: https://www.developmentsimplyput.com/post/mediator-design-pattern-in-net-c
